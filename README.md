@@ -61,6 +61,11 @@ To run these projects locally:
    git clone https://github.com/CamilaLightfoot/My-eCornell-Portfolio-ML-lifecycle-projects.git
    cd My-eCornell-Portfolio-ML-lifecycle-projects
 
+### Try It Online
+You can run this project directly on Google Colab without installing anything locally:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CamilaLightfoot/My-eCornell-Portfolio-ML-lifecycle-projects)
+
 # Contact
 Camila Lightfoot
 Computer Science Student at George Mason University

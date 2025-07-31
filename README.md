@@ -62,8 +62,13 @@ To run these projects locally:
    cd My-eCornell-Portfolio-ML-lifecycle-projects
 
 ### Try It Online
-You can run this project directly on Google Colab without installing anything locally:
 
+**Option 1:** Run in Jupyter Online (Recommended for Simplicity)
+You can view and run this project directly in a web browser using Jupyter environments:
+- Try it in JupyterLite or GitHub Codespaces
+- Or visit [Jupyter Notebook Viewer (NBViewer)](https://nbviewer.org/) to explore without setup
+
+**Option 2:** You can run this project directly on Google Colab without installing anything locally:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CamilaLightfoot/My-eCornell-Portfolio-ML-lifecycle-projects)
 
 # Contact

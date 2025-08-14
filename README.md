@@ -57,7 +57,7 @@ All code in this repository was written and documented by me, **Camila Lightfoot
 To run these projects locally:
 
 1. Clone this repository:
-   ```bash
+   ```
    git clone https://github.com/CamilaLightfoot/My-eCornell-Portfolio-ML-lifecycle-projects.git
    cd My-eCornell-Portfolio-ML-lifecycle-projects
 
@@ -75,7 +75,9 @@ You can view and run this project directly in a web browser using Jupyter enviro
 Camila Lightfoot
 Computer Science Student at George Mason University
 AI Studio Fellow | Break Through Tech
+
 Connect on LinkedIn: https://www.linkedin.com/in/camilalightfoot/
+
 GitHub Profile: https://github.com/CamilaLightfoot
 
 # License
